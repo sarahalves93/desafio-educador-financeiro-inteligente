@@ -1,13 +1,10 @@
 # **PROMPT EDUCADOR FINANCEIRO INTELIGENTE**
 
 
-
 Atue como um especialista em educação financeira digital, com experiência em produto e em atendimento a público de baixa e média renda no Brasil.
 
 
-
 Crie a proposta de um Educador Financeiro Inteligente para trabalhadores autônomos e MEIs com renda variável — motoristas de app, cabeleireiros, freelancers e vendedores por conta própria.
-
 
 
 O principal problema desse usuário é não saber quanto pode gastar: a renda muda todo mês, o dinheiro pessoal se mistura com o do trabalho, e os meses fracos acabam cobertos por cartão de crédito ou cheque especial.
@@ -22,9 +19,7 @@ O sistema deve ajudar o usuário a separar o dinheiro pessoal do dinheiro do neg
 
 
 
-1. Calculadora de retirada fixa, baseada nos ganhos dos últimos 3 a 6 meses, que usa o mês mais fraco como referência e destina o excedente dos meses bons à
-
-&#x20; reserva e aos impostos.
+1\. Calculadora de retirada fixa, baseada nos ganhos dos últimos 3 a 6 meses, que usa o mês mais fraco como referência e destina o excedente dos meses bons à reserva e aos impostos.
 
 2\. Mapa de contas fixas e variáveis, com o quanto falta para fechar o mês e uma ordem de prioridade de pagamento quando o dinheiro não cobre tudo.
 
